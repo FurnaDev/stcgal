@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/grigorig/stcgal/badge.svg?branch=master)](https://coveralls.io/github/grigorig/stcgal?branch=master)
 [![PyPI version](https://badge.fury.io/py/stcgal.svg)](https://badge.fury.io/py/stcgal)
 
+[Interesting forum post how to connect to STC15F2K60S2](https://embdev.net/topic/383764#4379028/).
+
 stcgal - STC MCU ISP flash tool
 ===============================
 
